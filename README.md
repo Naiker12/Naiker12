@@ -18,6 +18,7 @@
 
 -----------------------------------------
 <br>
+
 - INGENIERO EN SISTEMAS 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
