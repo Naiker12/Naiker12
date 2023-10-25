@@ -29,6 +29,8 @@
 
 - **Tecnologías conocidas **:
 
+ -----------------------------------------
+
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code> 
