@@ -28,8 +28,7 @@
 - INGENIERO EN SISTEMAS 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
-- Personal website 
-- I’m currently open for an Intern or a new job opportunity, this is 
+
 
 <br><br>
 
