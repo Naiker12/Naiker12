@@ -24,20 +24,4 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 -----------------------------------------
-<br>
 
-- INGENIERO EN SISTEMAS 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
-
-
-<br><br>
-
-- **Tecnologías conocidas **:
-
- -----------------------------------------
- <br>
- 
-
-
-<br>
