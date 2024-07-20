@@ -4,16 +4,11 @@
 
 <br>
 </div>
-
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2fe5487c-5b01-4953-bafb-2741a21fcc4d" alt="Card header"/>
 </div>
-  
   <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">soy Naiker Gómez / Desarrollador Backend<width="30px"></h1>
   <br>
-
-
 <h2>Contactos🆖</h2>
 
 <p align="left">
