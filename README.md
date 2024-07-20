@@ -90,8 +90,8 @@
         <img align="center" width=100% src="https://github.com/user-attachments/assets/55ad3d1e-bf40-4825-b359-1371ff6a7749"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://www.youtube.com/watch?v=kGjp3VdUktI&t=17s" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/Naiker12/SOFTWARE-DE-GESTI-N-DE-PRODUCTO-DE-COCA-COLA.git" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
 <td width="25%" align="center">
