@@ -40,6 +40,7 @@
   </p>
 <br>
 
+
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 - Backend
@@ -97,11 +98,11 @@
 <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/user-attachments/assets/dce07564-515b-49f6-8354-06d7b0a40c39"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://www.youtube.com/watch?v=TLxUqUDbMuE&t=450s" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/Naiker12/Tienda-virtual.git" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
   
