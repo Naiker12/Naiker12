@@ -42,38 +42,24 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,spring,nestjs" />
+    <img src="https://skillicons.dev/icons?i=java,spring" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=js,tailwind" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
   </a>
 </p>
 
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,firebase" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux" />
-  </a>
-</p>
-<br>
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
